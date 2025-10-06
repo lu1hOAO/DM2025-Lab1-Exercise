@@ -16700,9 +16700,9 @@ nye	patently	wishes	claire	eau	whoever	philosopher:11
 absurd	patently	wishes	claire	eau	whoever	philosopher:11
 nye	absurd	patently	wishes	claire	eau	whoever	philosopher:11
 wi:12
+wi	nye:11
 wi	wisconsin:11
 wi	wisconsin	nye:10
-wi	nye:11
 wi	absurd:11
 wi	absurd	wisconsin:10
 nye	wi	absurd	wisconsin:10
