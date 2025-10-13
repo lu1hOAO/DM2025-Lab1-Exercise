@@ -16227,8 +16227,8 @@ guest	dying	9760	241:9
 408	dying	9760	241:9
 guest	408	dying	9760	241:9
 fred:12
-fred	means:9
 fred	action:9
+fred	means:9
 fred	international:9
 totally:12
 white:12
@@ -16254,10 +16254,6 @@ steroid:12
 eau:12
 eau	nye:11
 claire	eau	nye:11
-eau	wisconsin:11
-eau	wisconsin	nye:10
-claire	eau	wisconsin	nye:10
-eau	wisconsin	claire:11
 eau	absurd:11
 eau	absurd	wisconsin:10
 claire	eau	absurd	wisconsin:10
@@ -16314,6 +16310,10 @@ claire	nye	eau	wishes	patently:11
 claire	absurd	eau	wishes	patently:11
 nye	absurd	eau	wishes	patently:11
 claire	nye	absurd	eau	wishes	patently:11
+eau	wisconsin:11
+eau	wisconsin	nye:10
+claire	eau	wisconsin	nye:10
+eau	wisconsin	claire:11
 eau	claire:12
 philosopher:12
 philosopher	wisconsin:10
@@ -17576,10 +17576,10 @@ modern:15
 relatively:15
 sun:15
 online:15
-online	means:9
-online	means	communications:9
 online	action:9
 online	action	408:9
+online	means:9
+online	means	communications:9
 online	guest:11
 online	guest	communications:10
 408	online	guest	communications:10
@@ -17608,9 +17608,9 @@ online	9760	241:11
 408	online	9760	241:11
 guest	online	9760	241:11
 408	guest	online	9760	241:11
-online	communications:12
 online	408:12
 online	408	communications:10
+online	communications:12
 activity:15
 allow:15
 wonder:15
